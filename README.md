@@ -1,4 +1,4 @@
-# PART-A: SQL Programming (Max. Exam Mks. 50)
+# PART-A: SQL Programming
 
 •Design, develop, and implement the specified queries for the following problems using Oracle, MySQL, MS SQL Server, or any other DBMS under LINUX/Windows environment.
 
